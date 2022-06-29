@@ -15,7 +15,8 @@
     "node": ">=14.17.0"
   },
   "dependencies": {
-    "electron-store": "^8.0.1"
+    "electron-store": "^8.0.1",
+    "robotjs": "^0.6.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.12",
